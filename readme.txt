@@ -1,0 +1,2 @@
+Utilizaremos uma aplicação chamada vercel.com (https://vercel.com/). Ela aponta para um dos nossos repositórios do GitHub e 
+realiza im Deploy (desdobramento), que é justamente a ação de disponibilizar o projeto para as pessoas.
